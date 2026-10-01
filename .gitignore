@@ -1,0 +1,8 @@
+*.bak
+*.log
+*.ini
+*.o
+*.obj
+*.pdb
+.DS_Store
+config/

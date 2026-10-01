@@ -1,0 +1,7 @@
+LIBRARY EasyTruckGPS.asi
+EXPORTS
+    ETGPS_Initialize
+    ETGPS_ClearRoute
+    ETGPS_SetRoute
+    ETGPS_IsInstalled
+    ETGPS_Shutdown
